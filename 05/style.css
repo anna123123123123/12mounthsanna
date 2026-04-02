@@ -1,0 +1,76 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+body{
+	background:url(img/Trava.jpg) ;
+	background-size:cover
+}
+
+.box{
+	width: 960px;
+	margin: 50px auto;
+	background: #fff;
+	padding: 20px;	
+	margin: 0 auto;
+}
+
+img{
+
+	margin-top: 20px;
+	height: 200px;
+}
+
+h1{
+	text-align: center;
+	color: #000;
+	font-size:50px;
+}
+
+h2{
+	font-size: 40px;
+	margin-top: 20px;
+	color: #000;
+	text-align: center;
+}
+
+h3{ 
+	front-size: 30px;
+	text-align: center;
+	margin-top: 20px;
+	color: #000;
+}
+
+h4{
+	font-size: 20px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #000;
+	background: #738b2a;
+	margin-top: 10px;
+}
+
+p{
+	text-align: center;
+	color: #000;
+	font-size: 20px;
+}
+
+.poem{
+	text-align: center;
+	margin-top: 10px;
+}
+
+.text{
+	text-align: left;
+}
+
+.text2{
+	text-align: right;
+}
+
+.text3{
+	text-align: center;
+}
